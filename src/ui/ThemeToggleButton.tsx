@@ -1,4 +1,3 @@
-// ThemeToggleButton.tsx
 import { ThemeContext } from '../contexts/ThemeContext';
 
 export default function ThemeToggleButton() {
