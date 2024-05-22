@@ -1,5 +1,5 @@
 // ThemeToggleButton.tsx
-import { ThemeContext } from '../ThemeContext';
+import { ThemeContext } from '../contexts/ThemeContext';
 
 export default function ThemeToggleButton() {
   return (

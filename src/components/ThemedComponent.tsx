@@ -1,5 +1,5 @@
 // ThemedComponent.tsx
-import { ThemeContext } from '../ThemeContext';
+import { ThemeContext } from '../contexts/ThemeContext';
 
 export default function ThemedComponent() {
   return (
